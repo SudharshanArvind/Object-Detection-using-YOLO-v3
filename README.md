@@ -4,6 +4,8 @@ YOLO v3 (You Only Look Once Version 3) is a real-time object detection model tha
 # Pre Trained Model
 YOLOv3 Weights: The code downloads the pretrained YOLOv3 model weights from pjreddie.com. These weights are trained on the COCO dataset.
 
+YOLOv3 Configuration: The neural network model architecture is stored in the yolov3.cfg file. This file must be downloaded from pjreddie.com.
+
 # Dataset
 COCO Dataset: The YOLOv3 model in your code uses the COCO (Common Objects in Context) dataset, which is a large-scale object detection, segmentation, and captioning dataset. The COCO dataset contains 80 object categories with over 330,000 images.
 
